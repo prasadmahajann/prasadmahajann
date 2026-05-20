@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://i.postimg.cc/yNwH6Q6s/a-wide-cozy-moody-digital-illustration-banner.png" width="100%" />
+  <img width="100%" src="https://i.postimg.cc/8cZVw5Y7/a-wide-cozy-moody-digital-illustration-banner.png">
 </p>
-
 <h1 align="center">Hi 👋, I'm Prasad Mahajan</h1>
 
 <h3 align="center">
