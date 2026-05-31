@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="100%" src="banner.png">
+  <img src="banner.png" width="100%" alt="Banner"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Prasad Mahajan</h1>
 
 <h3 align="center">
