@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://i.postimg.cc/8cZVw5Y7/a-wide-cozy-moody-digital-illustration-banner.png">
+  <img width="100%" src="banner.png">
 </p>
 <h1 align="center">Hi 👋, I'm Prasad Mahajan</h1>
 
